@@ -46,7 +46,7 @@
     },
     {
       "component": "header",
-      "heading": "jquerycss",
+      "heading": "Это первый текст ",
       "subhead": "jquery-ui.css for node-red datepicker",
       "children": [
         {
